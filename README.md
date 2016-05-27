@@ -14,17 +14,8 @@ For more detail course information, please click the following website.
 
 [CSMATH 2015-2016](http://www.cad.zju.edu.cn/home/zhx/csmath/doku.php?id=2016)
 
-## Update
+## Key Points
 
-2016/3/4: Create Homework1
+* Homework1. Curve Fitting.
 
-2016/3/6: Add Batch Gradient Descent in HW1.
-
-Found bug:
-
-1. Learning rate is actually difficult to choose. when you choose a
-small one, you need relatively long time to convergence when degree 
-is small.
-		  when you choose a big one, the cost function just turn out to be 
-		  "nan".
-		
+* Homework2. PCA for UCI digit database.
