@@ -19,3 +19,9 @@ For more detail course information, please click the following website.
 * Homework1. Curve Fitting.
 
 * Homework2. PCA for UCI digit database.
+
+* Homework3. 2D Mog and E-M Algorithm.
+
+* Homewrok4. L-M optimization Algorithm
+
+* Homework5. 2D SVM.
