@@ -28,7 +28,7 @@ def J_x( x, a, b ):
 #0.3 compute the f_x, where f(x) = 1/2 * sum( F_x .* 2)
 def f_x( x, y, a, b ):
     temp = a* np.exp(-b * x) - y
-    result = sum( np.power( temp, 2) ) /2
+    result = np.sum( np.power( temp, 2) ) /2
     return result
     
 #%%
