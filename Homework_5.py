@@ -1,5 +1,11 @@
-# This program is trail for SVM method.
-# Li Bin.
+# -*- coding: utf-8 -*-
+"""
+Applied Mathematics for Computer Science.
+Homework5 -- SVM.
+
+@author:   LiBin 11531041
+@date:     2016 - 5 - 23.
+"""
 
 
 import numpy as np
