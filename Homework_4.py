@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu May 22 15:31:04 2014
+Applied Mathematics for Computer Science.
+Homework4 -- L-M Algorithm.
 
-@author: Zhouzhou He 何周舟 11231037
+@author:   LiBin 11531041
+@date:     2016 - 5 - 23.
 """
 
 #%% Objective: Assuming given type of the certain function 
